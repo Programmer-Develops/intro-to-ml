@@ -12,3 +12,6 @@
 # git merge <branch name>
 # git stash 
 # git stash pop
+# git switch <branch name>
+# git branch <branch name>
+
