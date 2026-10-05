@@ -36,3 +36,13 @@
 # Q35 => What is difference between shape and size properties ?
 # Q36 => How will you create a transpose of a matrix ? Explain with example 
 # Q37 => What is KNN ? Explain in detail
+
+### Answers
+# A1 => AI (Artificial Intelligence) is the simulation of human intelligence in machines. ML (Machine Learning) is a subset of AI that focuses on algorithms that can learn from and make predictions based on data. Data Science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data.
+
+# A2 => Features of ML include:
+- Ability to learn from data
+- Adaptability to new data
+- Ability to make predictions
+
+# A3 => In pandas, the `sample()` method is used to randomly select a specified number of rows from a DataFrame. The `head()` method returns the first n rows of a DataFrame, while the `tail()` method returns the last n rows.
